@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raygrilloia-rgb.github.io/raycriptodiario/sitemap.xml
