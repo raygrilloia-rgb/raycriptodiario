@@ -230,6 +230,8 @@ articulos.sort((a, b) => b.fecha.localeCompare(a.fecha));
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.cpSync(path.join(RAIZ, 'assets'), path.join(OUT, 'assets'), { recursive: true });
 escribe('.nojekyll', '');
+// publico/: archivos que van tal cual a la raíz de la web (verificación de Google Search Console, etc.)
+if (fs.existsSync(path.join(RAIZ, 'publico'))) fs.cpSync(path.join(RAIZ, 'publico'), OUT, { recursive: true });
 
 for (const a of articulos) escribe(`articulos/${a.slug}/index.html`, paginaArticulo(a, articulos));
 
