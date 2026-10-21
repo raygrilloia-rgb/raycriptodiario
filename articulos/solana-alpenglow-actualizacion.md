@@ -7,6 +7,7 @@ etiquetas: solana, alpenglow, towerbft, blockchain, actualizacion
 imagen: https://raw.githubusercontent.com/raygrilloia-rgb/raycriptodiario-media/main/banco/adopcion/adopcion-planeta.jpg
 imagen_alt: Planeta Tierra de noche con una red de conexiones doradas
 instagram: https://www.instagram.com/p/DewDwnWlfEX/
+reel: https://www.instagram.com/reel/DewGfs3E7DM/
 ---
 **Solana Alpenglow** es la actualización que, según Anza y Solana Compass, está prevista para activarse hoy, 21 de octubre de 2026, hacia las 15:00 UTC en la red principal (mainnet) de Solana. Cambia el sistema con el que la red se pone de acuerdo sobre qué transacciones son definitivas, y su objetivo es que eso tarde unos 150 milisegundos en lugar de unos 12,8 segundos.
 
